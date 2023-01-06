@@ -45,5 +45,6 @@ Program for currency conversion based on actual rates from NBP Web page. If inte
 
 ## How it looks?
 Some screenshots of GUIs. 
+
 ![](images/screen1.jpg)\
 ![](images/screen2.jpg)\
