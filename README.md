@@ -11,7 +11,9 @@
 ## Description
 Projects for academic course at Wrocław University of Science and Technology using Tkinter library to make GUI.
 
-- **CurrencyConverter** \
+**CurrencyConverter** 
+
+
 Program for currency conversion based on actual rates from NBP Web page. If internet connection is not available last rates are saved in actual_rates.txt file. GUI interface includes:
 - selection of currencies from drop-down list
 - textbox to enter the money amount
@@ -20,6 +22,8 @@ Program for currency conversion based on actual rates from NBP Web page. If inte
 - button to end the program
 
 **DrawFunctions** 
+
+
 Program to draw function plots. GUI interface includes:
 - place to type function formula
 - buttons with mathematical symbols, operators and elementary functions
