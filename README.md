@@ -67,7 +67,7 @@ Documentation of the program was done using **pydoc**.
 `git clone  https://github.com/grzesiaaa/Python_TkinterProjects.git Python_TkinterProjects`
 2. Go to folder with the app: \
 `cd Python_TkinterProjects` \
-`cd DrawFunctions` \
+`cd DrawFunctions` 
 3. Run the app: \
 `python draw_function.py`
 
