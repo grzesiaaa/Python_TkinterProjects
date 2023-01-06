@@ -19,7 +19,7 @@ Program for currency conversion based on actual rates from NBP Web page. If inte
 - button to run the program
 - button to end the program
 
-**DrawFunctions** \
+**DrawFunctions** 
 
 ## Language
 - **Python 3.9.0**
@@ -34,11 +34,11 @@ Program for currency conversion based on actual rates from NBP Web page. If inte
 
 ## How to run
 
-**CurrencyConverter** \
+**CurrencyConverter** 
 1. Clone the project: \
 `git clone  https://github.com/grzesiaaa/Python_TkinterProjects.git Python_TkinterProjects`
 2. Go to folder with the app: \
-`cd Python_TkinterProjects`
+`cd Python_TkinterProjects` \
 `cd Currency Converter`
 3. Run the converter: \
 `python interface.py`
