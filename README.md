@@ -40,7 +40,5 @@ Program for currency conversion based on actual rates from NBP Web page. If inte
 2. Go to folder with the app: \
 `cd Python_TkinterProjects`
 `cd Currency Converter`
-3. Install the project requirements: \
-`pip install -r requirements.txt`
-4. Run the converter: \
+3. Run the converter: \
 `python interface.py`
