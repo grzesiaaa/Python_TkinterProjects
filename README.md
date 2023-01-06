@@ -39,6 +39,11 @@ Program for currency conversion based on actual rates from NBP Web page. If inte
 `git clone  https://github.com/grzesiaaa/Python_TkinterProjects.git Python_TkinterProjects`
 2. Go to folder with the app: \
 `cd Python_TkinterProjects` \
-`cd Currency Converter`
+`cd CurrencyConverter`
 3. Run the converter: \
 `python interface.py`
+
+## How it looks?
+Some screenshots of GUIs. 
+![](images/screen1.png)\
+![](images/screen1.png)\
